@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-image: url(zyro-image.png);
+    background-size: 1400px 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    position: fixed;
+    width: 100%;
+}
+
+h1{
+    color: blue;
+}
+
+h2{
+    text-transform: capitalize;
+    color: aqua;
+}
+
+h3{
+    text-align: left;
+    text-transform: capitalize;
+    size: 100px;
+}
+  
